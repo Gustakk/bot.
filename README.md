@@ -1,20 +1,8 @@
-# 🌀 Aleatory Bot 🌀
+# 👑C R E I T I M 👑
 <div align="center">
-<img src="https://i.ibb.co/TLySDcF/59ed60bd9936.jpg" alt="Aleatory Bot" width="300" />
+<giphy src="https://www.google.com/url?sa=t&source=web&rct=j&url=https://tenor.com/search/anime-boy-gifs&ved=2ahUKEwjw3-r4gufzAhXAHrkGHeYkBmQQo7QBegQICRAB&usg=AOvVaw0uBjDpg0f1ew52Ma4thB5z" alt="Creitim" width="300" />
 
-</div>
-<p align="center">
-  <a href="https://github.com/Josival321/aleatory"><img title="Author" src="https://img.shields.io/badge/Author-Aleatory-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
-
-Um bot simples para whatsapp que está em desenvolvimento para animar os dias do seu grupo!
-
-Qualquer dúvida, entre em contato comigo!
-- [+55 81 98923680](https://wa.me/558198923680)
-
-Grupo ofc para usar e tirar duvidas sobre o bot!!
-- [Clique aqui](https://chat.whatsapp.com/CMsL8gkLCN4CxeRwGEFtYA)
-
+<div> 
 ## COMANDOS PARA INSTALAÇÃO DO BOT
 ```bash
  A cada divisão, é um comando que deves lançar no termux, e apertar enter, junto mesmo, da fórma que tiver.
